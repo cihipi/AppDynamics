@@ -1,4 +1,5 @@
 There are three main steps here
-* Install-service
-* Uninstall-service
-* 
+* Install-Agent.ps1
+* InstallService-SCCM.vbs
+* UninstallService-SCCM.vbs
+
