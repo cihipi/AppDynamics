@@ -4,6 +4,13 @@ There are three main steps here
 * UninstallService-SCCM.vbs
 
 # SCCM Configuration
-https://github.com/cihipi/AppDynamics/blob/main/MachineAgent/Images/SS1.PNG
 
-![Hey](Images/SS1.PNG)
+The key parts of the package are
+* Programs
+  ![Details](Images/SS3.PNG)
+* The detection method 
+  ![Details](Images/SS2.PNG)
+  ![Details](Images/SS1.PNG)
+* User Experience
+  ![Details](Images/SS4.PNG)
+
